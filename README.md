@@ -42,11 +42,15 @@ cd estartandodevs-atividade-blogODS
 Instale as dependências:
 
 ```bash
+npm install
+# ou
+yarn
+```
+
+Inicie o servidor de desenvolvimento:
+
+```bash
 npm run dev
 # ou
 yarn dev
 ```
-
-
-
-
